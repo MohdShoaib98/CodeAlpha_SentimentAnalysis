@@ -1,4 +1,4 @@
-CodeAlpha Task 4 – Sentiment Analysis
+📌 CodeAlpha – Task 4: Sentiment Analysis
 
 This project performs Sentiment Analysis on Amazon cell phone reviews. Using Natural Language Processing (NLP) techniques with the VADER sentiment analyzer, it classifies reviews as Positive, Negative, or Neutral.
 The project also exports structured results to Excel and generates bar and pie chart visualizations to better understand public opinion about products.
