@@ -1,0 +1,7 @@
+pandas → dataset handling
+
+NLTK (VADER) → sentiment analysis
+
+matplotlib & seaborn → visualization
+
+openpyxl → export to Excel
